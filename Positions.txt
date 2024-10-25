@@ -1,0 +1,8 @@
+data analyst
+data engineer
+data scientist
+python
+cloud
+security
+artificial inteligence
+machine learning
