@@ -5,7 +5,7 @@ Analyze job postings to identify trends and insights in job requirements.
 <br /><br />
 
 ## Objective
-<br /><br />
+<br />
 
 * The main goal of this project is to analyze job postings to identify trends and insights in job requirements, such as in-demand skills, education levels, and experience.
 <br />
@@ -16,20 +16,20 @@ Analyze job postings to identify trends and insights in job requirements.
 ## Scope
 <br />
 
-- **Data Source:   **Job postings were collected from (http://www.topjobs.lk) using a Python web scraping script (Beautiful Soup). This analysis include data from June to September 2024.
+**Data Source:   **Job postings were collected from (http://www.topjobs.lk) using a Python web scraping script (Beautiful Soup). This analysis include data from June to September 2024.
 <br />
 
-- **Key Data Fields:**   Job Title, Company, Skills, Education, Experience, and Job Links.
+**Key Data Fields:**   Job Title, Company, Skills, Education, Experience, and Job Links.
 <br />
 
-- **Time Frame:**   The data was scraped weekly to capture recent trends.
+**Time Frame:**   The data was scraped weekly to capture recent trends.
 <br />
 
-- **Tools Used:**   Python (scraping and cleaning), Excel (data storing and organization), PowerBI (dashboarding).
+**Tools Used:**   Python (scraping and cleaning), Excel (data storing and organization), PowerBI (dashboarding).
 <br /><br /><br />
 
 ## Approach
-<br /><br />
+<br />
 
 **Data Collection**
 <br />
@@ -60,7 +60,7 @@ Analyze job postings to identify trends and insights in job requirements.
 - **Data Cleaning:**  Completed after every data collection, ensuring only relevant data is used.
 <br />
 
-- **Dashboard:  **An operational PowerBI dashboard visualizes trends and insights.
+- **Dashboard:** An operational PowerBI dashboard visualizes trends and insights.
 <br /><br /><br />
 
 ## Future Expansion
