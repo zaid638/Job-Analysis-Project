@@ -14,16 +14,16 @@ Analyze job postings to identify trends and insights in job requirements.
 <br /><br /><br />
 
 ## Scope
-<br /><br />
+<br />
 
 **Data Source:** Job postings were collected from (http://www.topjobs.lk) using a Python web scraping script (Beautiful Soup). This analysis include data from June to September 2024.
-<br />
+<br /><br />
 
 **Key Data Fields:**   Job Title, Company, Skills, Education, Experience, and Job Links.
-<br />
+<br /><br />
 
 **Time Frame:**   The data was scraped weekly to capture recent trends.
-<br />
+<br /><br />
 
 **Tools Used:**   Python (scraping and cleaning), Excel (data storing and organization), PowerBI (dashboarding).
 <br /><br /><br />
