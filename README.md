@@ -52,7 +52,7 @@ Analyze job postings to identify trends and insights in job requirements.
 <br /><br /><br />
 
 ## Current Status
-<br /><br />
+<br />
 
 - **Data Collection:** Job data is successfully being collected and added weekly.
 <br />
@@ -64,7 +64,7 @@ Analyze job postings to identify trends and insights in job requirements.
 <br /><br /><br />
 
 ## Future Expansion
-<br /><br />
+<br />
 
 **1. Automating the Process**
   - Fully automate data scraping, cleaning, and transformation tasks to reduce manual input.
