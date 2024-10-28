@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/54a8b6c3-bd3d-4b49-9d38-a73f0ab5d556)![image](https://github.com/user-attachments/assets/6f4ad06b-f829-45a7-8870-7e2822870cf0)# Job-Analysis-Project
+# Job-Analysis-Project
 <br />
 
 Analyze job postings to identify trends and insights in job requirements.
@@ -31,15 +31,15 @@ Analyze job postings to identify trends and insights in job requirements.
 ## Approach
 <br /><br />
 
-- **Data Collection**
+**Data Collection**
 <br />
 
   - Scraped job postings weekly.
   - Extracted key fields: Job Title, Company, Job Link.
 <br />
 
-**Data Cleaning and Transformation
-**<br />
+**Data Cleaning and Transformation**
+<br />
 
   - Filtered only relevant job postings using Python (data analyst, data engineer, data scientist, python, cloud, cyber security).
   - Manually inserted and populated additional columns such as Skills, Education, Experience using data from job-specific links.
