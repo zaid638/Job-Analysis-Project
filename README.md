@@ -14,9 +14,9 @@ Analyze job postings to identify trends and insights in job requirements.
 <br /><br /><br />
 
 ## Scope
-<br />
+<br /><br />
 
-**Data Source:   **Job postings were collected from (http://www.topjobs.lk) using a Python web scraping script (Beautiful Soup). This analysis include data from June to September 2024.
+**Data Source:** Job postings were collected from (http://www.topjobs.lk) using a Python web scraping script (Beautiful Soup). This analysis include data from June to September 2024.
 <br />
 
 **Key Data Fields:**   Job Title, Company, Skills, Education, Experience, and Job Links.
@@ -54,7 +54,7 @@ Analyze job postings to identify trends and insights in job requirements.
 ## Current Status
 <br /><br />
 
-- **Data Collection:  **Job data is successfully being collected and added weekly.
+- **Data Collection:** Job data is successfully being collected and added weekly.
 <br />
 
 - **Data Cleaning:**  Completed after every data collection, ensuring only relevant data is used.
