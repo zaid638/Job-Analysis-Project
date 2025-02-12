@@ -2,10 +2,10 @@
 <br />
 
 Analyze job postings to identify trends and insights in job requirements.
-<br />
+<br /><br />
 
 ![ETL Diagram](https://github.com/zaid638/Job-Analysis-Project/blob/main/Job%20Analysis%20ETL%20Diagram.png)
-<br /><br />
+<br /><br /><br />
 
 ## Objective
 <br />
